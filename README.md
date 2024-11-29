@@ -22,8 +22,6 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 
 ## Certificats
-        
-      
-      
-    	
 
+    ### Certificates/CertificateOfCompletion_Tableau Essential Training 2020.1.pdf
+      
