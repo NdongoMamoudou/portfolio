@@ -23,6 +23,6 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Certificats
 
-### [Certificat Python - Analyse de données](./Certificats/CertificatDaccomplissement_Python%20Lanalyse%20de%20donnees.pdf)
+### [Certificat Python - La visualisation des données](./Certificats/CertificatDaccomplissement_Python_La_visualisation_des_donnees.pdf)
 
       
