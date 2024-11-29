@@ -15,3 +15,6 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 ## Compétences de base
 
 ## Certificats
+        
+      • https://github.com/NdongoMamoudou/portfolio/blob/main/Certificats/CertificatDaccomplissement_Python%20%20Lanalyse%20de%20donnees.pdf	
+    	
