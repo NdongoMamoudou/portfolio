@@ -9,3 +9,5 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 ## Réalisations
 
 ## Projets
+
+## Compétences de base
