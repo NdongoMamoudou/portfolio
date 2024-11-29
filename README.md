@@ -19,7 +19,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   • Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, C++
   
   • Tools: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
-
+  
 
 ## Certificats
 
