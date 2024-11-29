@@ -23,5 +23,6 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Certificats
 
-### :  Certificats/CertificatDaccomplissement_Python  Lanalyse de donnees.pdf
+### [Tableau Essential Training Certificate](./Portfolio/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+
       
