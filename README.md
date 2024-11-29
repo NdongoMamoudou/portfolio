@@ -33,3 +33,4 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
   • [Scrum Fundamentals Certified](./Certificats/ScrumFundamentalsCertified-MamoudouNdongo-1050242.pdf)
 
+
