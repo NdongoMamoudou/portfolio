@@ -23,5 +23,5 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Certificats
 
-    ### :  https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf
+### :  https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf
       
