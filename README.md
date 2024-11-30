@@ -10,15 +10,26 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
-<img src="Images/email.png" alt="Icône d'email" width="250">   [Classification : Emails (Spam) et Cancer](https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire)
-
-                                                               Ce dépôt regroupe deux projets exploitant des modèles de Deep Learning pour résoudre 
-                                                               
-                                                               des problématiques de classification binaire. Le premier projet porte sur la classification d'emails, 
-                                                               
-                                                               avec pour objectif d'identifier si un message est un spam ou non. Le second projet se concentre sur la 
-                                                               
-                                                               classification médicale, visant à prédire si une personne est atteinte de cancer.                                                              
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 250px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
+          Classification : Emails (Spam) et Cancer
+        </a>
+      </strong>
+      <p>
+        Ce dépôt regroupe deux projets exploitant des modèles de Deep Learning pour résoudre des problématiques de classification binaire. 
+        Le premier projet porte sur la classification d'emails, avec pour objectif d'identifier si un message est un spam ou non. 
+        Le second projet se concentre sur la classification médicale, visant à prédire si une personne est atteinte de cancer.
+      </p>
+    </td>
+  </tr>
+</table>
+                                                            
 
 
 
