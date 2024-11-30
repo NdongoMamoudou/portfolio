@@ -13,7 +13,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 250px;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
     </td>
     <td style="width: 50%;">
       <strong>
