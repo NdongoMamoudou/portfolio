@@ -10,6 +10,52 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
+          Classification : Emails (Spam) et Cancer
+        </a>
+      </strong>
+      <p>
+        Ce dépôt regroupe deux projets exploitant des modèles de Deep Learning pour résoudre des problématiques de classification binaire. 
+        Le premier projet porte sur la classification d'emails, avec pour objectif d'identifier si un message est un spam ou non. 
+        Le second projet se concentre sur la classification médicale, visant à prédire si une personne est atteinte de cancer.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
+           alt="Icône d'email" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href= "https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
+          Analyse des Comportements d'Achat des Clients - Campagne Marketing
+        </a>
+      </strong>
+      <p>
+        Ce projet explore les comportements d'achat des clients d'une entreprise à partir des données de campagnes marketing. L'objectif est de 
+        réaliser une analyse exploratoire des données (EDA) pour mieux comprendre les habitudes d'achat des clients, nettoyer et préparer les 
+        données, puis appliquer une segmentation basée sur les revenus et les dépenses. Cette analyse est présentée sous forme d'un tableau de bord 
+        interactif développé avec Streamlit, permettant d'interagir facilement avec les insights obtenus. 
+      </p>
+    </td>
+  </tr>
+</table>
+
+                                                            
+
+
+
 ## Microprojets
 
 ## Compétences de base
