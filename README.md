@@ -10,9 +10,15 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
-<img src="Images/email.png" alt="Icône d'email" width="250">   [spam](https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire)
-                                                               Ce dépôt regroupe deux projets exploitant des modèles de Deep Learning pour résoudre des problématiques de                                                                     classification binaire. Le premier projet porte sur la classification d'emails, 
-                                                               avec pour objectif d'identifier si un message est un spam ou non. Le second projet se concentre sur la                                                                         classification médicale, visant à prédire si une personne est atteinte de cancer.                                                              
+<img src="Images/email.png" alt="Icône d'email" width="250">   [Classification : Emails (Spam) et Cancer](https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire)
+
+                                                               Ce dépôt regroupe deux projets exploitant des modèles de Deep Learning pour résoudre 
+                                                               
+                                                               des problématiques de classification binaire. Le premier projet porte sur la classification d'emails, 
+                                                               
+                                                               avec pour objectif d'identifier si un message est un spam ou non. Le second projet se concentre sur la 
+                                                               
+                                                               classification médicale, visant à prédire si une personne est atteinte de cancer.                                                              
 
 
 
