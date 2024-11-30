@@ -10,7 +10,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
-![Texte alternatif](Images/email.png)
+<img src="Images/email.png" alt="Icône d'email" width="300">
+
 
 
 ## Microprojets
