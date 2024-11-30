@@ -45,8 +45,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
         Ce projet explore les comportements d'achat des clients d'une entreprise à partir des données de campagnes marketing. L'objectif est de 
         réaliser une analyse exploratoire des données (EDA) pour mieux comprendre les habitudes d'achat des clients, nettoyer et préparer les 
         données, puis appliquer une segmentation basée sur les revenus et les dépenses. Cette analyse est présentée sous forme d'un tableau de bord 
-        interactif développé avec Streamlit, permettant d'interagir facilement avec les insights obtenus. L'EDA est essentielle ici pour découvrir 
-        des tendances, formuler des hypothèses et poser les bases pour des analyses plus avancées.
+        interactif développé avec Streamlit, permettant d'interagir facilement avec les insights obtenus. 
       </p>
     </td>
   </tr>
