@@ -37,7 +37,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href="https://github.com/NdongoMamoudou/Marketing_Campaign_Analysis">
+        <a href= "https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
         </a>
       </strong>
