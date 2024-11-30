@@ -33,7 +33,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/project_image.png" alt="Icône d'analyse de données" style="width: 100%; max-width: 300px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
+           alt="Icône d'email" style="width: 100%; max-width: 300px;">
     </td>
     <td style="width: 50%;">
       <strong>
