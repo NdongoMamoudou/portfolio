@@ -13,9 +13,9 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; height: auto;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding-left: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
           Classification : Emails (Spam) et Cancer
@@ -30,12 +30,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-top: 20px;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/revenue.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/revenue.png" alt="Icône d'achat" style="width: 100%; height: auto;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding-left: 10px;">
       <strong>
         <a href= "https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
@@ -50,6 +50,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
+
 
                                                             
 
