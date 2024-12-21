@@ -38,7 +38,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href= "https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
+        <a href="https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
         </a>
       </strong>
@@ -51,6 +51,27 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/nom-du-projet">
+          Titre du Projet
+        </a>
+      </strong>
+      <p>
+        Description du projet ici. Ce projet est centré sur l'utilisation de techniques de machine learning pour résoudre un problème spécifique, 
+        qu'il s'agisse de la prédiction de valeurs, de la classification de données, ou de l'exploration de nouveaux ensembles de données. 
+        Le projet inclut des outils comme Python, Scikit-learn, TensorFlow, et autres.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
                                                             
 
