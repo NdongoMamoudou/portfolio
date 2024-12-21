@@ -16,7 +16,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -37,7 +37,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   <tr>
     <td style="width: 50%; text-align: center;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
-           alt="Icône d'email" style="width: 100%; max-width: 300px;">
+           alt="Icône d'email" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -58,7 +58,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
+      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -70,7 +70,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
         Un projet d'extraction automatisée de données à partir de sites web. Il permet de collecter des informations structurées (produits, prix, articles, etc.) 
         de manière rapide et efficace pour des analyses ou surveiller des données en temps réel.
       </p>
-      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, scrapy , Selenium, Requests, Pandas.</p>
+      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, Scrapy, Selenium, Requests, Pandas.</p>
     </td>
   </tr>
 </table>
