@@ -10,6 +10,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
+
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
@@ -38,7 +40,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href= "https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
+        <a href="https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
         </a>
       </strong>
@@ -52,8 +54,26 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/WebScrapingCollection">
+          Web Scraping Collection
+        </a>
+      </strong>
+      <p>
+        Un projet d'extraction automatisée de données à partir de sites web. Il permet de collecter des informations structurées (produits, prix, articles, etc.) 
+        de manière rapide et efficace pour des analyses ou surveiller des données en temps réel.
+      </p>
+      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, Selenium, Requests, Pandas.</p>
+    </td>
+  </tr>
+</table>
 
-ajouter ici 
 
                                                             
 
