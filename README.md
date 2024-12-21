@@ -57,7 +57,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="mages/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px;">
+      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px;">
     </td>
     <td style="width: 50%;">
       <strong>
