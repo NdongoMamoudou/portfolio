@@ -16,11 +16,11 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/spam.PNG" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href="https://github.com/username/gp-colis">
+        <a href="https://github.com/NdongoMamoudou/gp_colis">
           GP Colis - Gestion des Colis entre le Sénégal et la France
         </a>
       </strong>
@@ -78,7 +78,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/G_aosis1.png" alt="web scraping" style="width: 100%; max-width: 300px; height: auto;">
+      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
