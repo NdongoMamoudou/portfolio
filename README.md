@@ -10,12 +10,13 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 ## Projets
 
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; height: auto;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
     </td>
-    <td style="width: 50%; padding-left: 10px;">
+    <td style="width: 50%;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
           Classification : Emails (Spam) et Cancer
@@ -30,12 +31,13 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed; margin-top: 20px;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/revenue.png" alt="Icône d'achat" style="width: 100%; height: auto;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
+           alt="Icône d'email" style="width: 100%; max-width: 300px;">
     </td>
-    <td style="width: 50%; padding-left: 10px;">
+    <td style="width: 50%;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
@@ -47,6 +49,26 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
         données, puis appliquer une segmentation basée sur les revenus et les dépenses. Cette analyse est présentée sous forme d'un tableau de bord 
         interactif développé avec Streamlit, permettant d'interagir facilement avec les insights obtenus. 
       </p>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/WebScrapingCollection">
+          Web Scraping Collection
+        </a>
+      </strong>
+      <p>
+        Un projet d'extraction automatisée de données à partir de sites web. Il permet de collecter des informations structurées (produits, prix, articles, etc.) 
+        de manière rapide et efficace pour des analyses ou surveiller des données en temps réel.
+      </p>
+      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, Selenium, Requests, Pandas.</p>
     </td>
   </tr>
 </table>
