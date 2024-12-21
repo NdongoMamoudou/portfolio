@@ -16,7 +16,28 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/gp_colis_screenshot.PNG" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/username/gp-colis">
+          GP Colis - Gestion des Colis entre le Sénégal et la France
+        </a>
+      </strong>
+      <p>
+        **GP Colis** est une application web dédiée à la gestion et à la publication d'annonces pour l'envoi ou la réception de colis entre le Sénégal et la France. 
+        Les utilisateurs peuvent publier des annonces, consulter celles des autres, et organiser des envois de colis en utilisant une interface conviviale et responsive.
+      </p>
+      <p><strong>Fonctionnalités principales :</strong> Création de comptes, publication d'annonces de colis, validation des informations, affichage dynamique des villes via API.</p>
+      <p><strong>Technologies utilisées :</strong> React.js, Node.js, Axios, API REST, Nginx (Reverse Proxy), HTML5, CSS3.</p>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -36,7 +57,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 100%; max-width: 300px;">
+      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -57,7 +78,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px;">
+      <img src="Images/G_aosis1.png" alt="web scraping" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -69,31 +90,11 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
         Un projet d'extraction automatisée de données à partir de sites web. Il permet de collecter des informations structurées (produits, prix, articles, etc.) 
         de manière rapide et efficace pour des analyses ou surveiller des données en temps réel.
       </p>
-      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, scrapy , Selenium, Requests, Pandas.</p>
+      <p><strong>Technologies utilisées :</strong> Python, BeautifulSoup, scrapy, Selenium, Requests, Pandas.</p>
     </td>
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px;">
-    </td>
-    <td style="width: 50%;">
-      <strong>
-        <a href="https://github.com/username/gp-colis">
-          GP Colis - Gestion des Colis entre le Sénégal et la France
-        </a>
-      </strong>
-      <p>
-        **GP Colis** est une application web dédiée à la gestion et à la publication d'annonces pour l'envoi ou la réception de colis entre le Sénégal et la France. 
-        Les utilisateurs peuvent publier des annonces, consulter celles des autres, et organiser des envois de colis en utilisant une interface conviviale et responsive.
-      </p>
-      <p><strong>Fonctionnalités principales :</strong> Création de comptes, publication d'annonces de colis, validation des informations, affichage dynamique des villes via API.</p>
-      <p><strong>Technologies utilisées :</strong> React.js, Node.js, Axios, API REST, Nginx (Reverse Proxy), HTML5, CSS3.</p>
-    </td>
-  </tr>
-</table>
 
 
 
