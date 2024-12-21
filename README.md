@@ -16,7 +16,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; ">
+      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -37,7 +37,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 100%; max-width: 300px; ">
+      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -57,7 +57,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 100%; max-width: 300px; ">
+      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -78,7 +78,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px; ">
+      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
