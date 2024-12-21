@@ -13,9 +13,9 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/email.png" alt="Icône d'email" style="width: 100%; height: auto;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding-left: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
           Classification : Emails (Spam) et Cancer
@@ -30,13 +30,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-top: 20px;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
-           alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/revenue.png" alt="Icône d'achat" style="width: 100%; height: auto;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding-left: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
@@ -51,27 +50,6 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
-
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
-    </td>
-    <td style="width: 50%;">
-      <strong>
-        <a href="https://github.com/NdongoMamoudou/nom-du-projet">
-          Titre du Projet
-        </a>
-      </strong>
-      <p>
-        Description du projet ici. Ce projet est centré sur l'utilisation de techniques de machine learning pour résoudre un problème spécifique, 
-        qu'il s'agisse de la prédiction de valeurs, de la classification de données, ou de l'exploration de nouveaux ensembles de données. 
-        Le projet inclut des outils comme Python, Scikit-learn, TensorFlow, et autres.
-      </p>
-    </td>
-  </tr>
-</table>
-
 
                                                             
 
