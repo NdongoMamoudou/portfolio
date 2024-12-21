@@ -74,18 +74,38 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/username/gp-colis">
+          GP Colis - Gestion des Colis entre le Sénégal et la France
+        </a>
+      </strong>
+      <p>
+        **GP Colis** est une application web dédiée à la gestion et à la publication d'annonces pour l'envoi ou la réception de colis entre le Sénégal et la France. 
+        Les utilisateurs peuvent publier des annonces, consulter celles des autres, et organiser des envois de colis en utilisant une interface conviviale et responsive.
+      </p>
+      <p><strong>Fonctionnalités principales :</strong> Création de comptes, publication d'annonces de colis, validation des informations, affichage dynamique des villes via API.</p>
+      <p><strong>Technologies utilisées :</strong> React.js, Node.js, Axios, API REST, Nginx (Reverse Proxy), HTML5, CSS3.</p>
+    </td>
+  </tr>
+</table>
 
-                                                            
 
 
 
+                                                  
 ## Microprojets
 
 ## Compétences de base
 
-  • Methodologies: Machine Learning, Deep Learning, Statistics, Big Data Analytics
+  • Methodologies: Machine Learning, Deep Learning, Statistics, Big Data Analytics, Web scraping
   
-  • Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, C++
+  • Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib, BeautifulSoup, scrapy , Selenium, ), SQL, C++
   
   • Tools: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
   
