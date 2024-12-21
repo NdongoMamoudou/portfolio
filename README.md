@@ -36,8 +36,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Email_icon.svg/768px-Email_icon.svg.png" 
-           alt="Icône d'email" style="width: 100%; max-width: 300px;">
+      <img src="Images/revenue.png" alt="Icône Marketing" style="width: 100%; max-width: 300px;">
     </td>
     <td style="width: 50%;">
       <strong>
@@ -58,7 +57,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/your_image.png" alt="Icône du projet" style="width: 100%; max-width: 300px;">
+      <img src="mages/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px;">
     </td>
     <td style="width: 50%;">
       <strong>
