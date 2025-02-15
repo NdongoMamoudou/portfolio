@@ -135,33 +135,33 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 📊 Data Science & Machine Learning
   - Méthodologies : Machine Learning, Deep Learning, Statistiques, Big Data Analytics, Web Scraping
-  -  Modélisation : Régression, Classification, Clustering, Séries temporelles
+  - Modélisation : Régression, Classification, Clustering, Séries temporelles
   - Traitement de Données : Feature Engineering, Data Cleaning, Data Wrangling
 
 💻 Langages de Programmation
-Python : Pandas, NumPy, Scikit-Learn, SciPy, Keras, TensorFlow, Matplotlib, Seaborn
-SQL : MySQL, PostgreSQL, SQLite
-Autres : JavaScript, C++,
+   - Python : Pandas, NumPy, Scikit-Learn, SciPy, Keras, TensorFlow, Matplotlib, Seaborn
+   - SQL : MySQL, PostgreSQL, SQLite
+   - Autres : JavaScript, C++,
 
 📂 Big Data & Cloud Computing
-Big Data : Hadoop (HDFS, Hive), Spark (PySpark, Spark SQL), Kafka
-Cloud Computing : AWS (S3, Lambda, EC2),
+  - Big Data : Hadoop (HDFS, Hive), Spark (PySpark, Spark SQL), Kafka
+  - Cloud Computing : AWS (S3, Lambda, EC2),
 
 🌐 Développement Web & API
-Front-End : HTML5, CSS3, JavaScript (React.js)
-Back-End : Python (Flask, FastAPI, Django)
-Bases de Données : MySQL, PostgreSQL, MongoDB, 
-Déploiement : Docker, Nginx
+ - Front-End : HTML5, CSS3, JavaScript (React.js)
+ - Back-End : Python (Flask, FastAPI, Django)
+ - Bases de Données : MySQL, PostgreSQL, MongoDB, 
+ - Déploiement : Docker, Nginx
 
 📈 Visualisation de Données
-Libraries Python : Matplotlib, Seaborn, Plotly
-BI & Dashboards : Power BI, Tableau , Streamlit
+ - Libraries Python : Matplotlib, Seaborn, Plotly
+ - BI & Dashboards : Power BI, Tableau , Streamlit
 
 🛡️ Soft Skills
-Résolution de problèmes
-Communication des résultats
-Gestion de projet Agile / Scrum
-Travail en équipe
+ - Résolution de problèmes
+ - Communication des résultats
+ - Gestion de projet Agile / Scrum
+ - Travail en équipe
   
 
 ## Certificats
