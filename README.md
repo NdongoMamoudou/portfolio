@@ -102,7 +102,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href="https://github.com/VOTRE_GITHUB/analyse_sismique_bigdata">
+        <a href="https://github.com/NdongoMamoudou/seismic-data-analysis">
           Analyse et Traitement des Données Sismiques avec Hadoop, Hive et Spark
         </a>
       </strong>
