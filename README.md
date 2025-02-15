@@ -95,6 +95,37 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/sismic_analysis.png" alt="Analyse Sismique Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/VOTRE_GITHUB/analyse_sismique_bigdata">
+          Analyse et Traitement des Données Sismiques avec Hadoop, Hive et Spark
+        </a>
+      </strong>
+      <p>
+        **Ce projet Big Data** a pour objectif de traiter et analyser de grands volumes de données sismiques 
+        en utilisant un environnement distribué basé sur **Hadoop, Hive et Spark**. L’objectif principal est 
+        de détecter des événements sismiques et de comprendre les tendances sismiques sur différentes périodes.
+      </p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Déploiement d’un environnement **Docker** avec **Hadoop, Hive et Spark**</li>
+        <li>Importation et traitement des données sismiques stockées sur **HDFS**</li>
+        <li>Nettoyage et transformation des données avec **Spark**</li>
+        <li>Analyse des événements sismiques et détection de tendances</li>
+        <li>Intégration de **Kafka** et **Spark Streaming** pour les analyses temporelles</li>
+        <li>Possibilité d’ajouter une interface de visualisation avec **Apache Superset** ou **Echarts**</li>
+      </ul>
+      <p><strong>Technologies utilisées :</strong> Docker, Hadoop (HDFS), Hive, Spark, Kafka, Apache Superset, Echarts.</p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
