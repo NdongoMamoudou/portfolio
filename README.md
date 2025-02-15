@@ -131,12 +131,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 
                                                   
-## Microprojets
+## Compétences 
 
 📊 Data Science & Machine Learning
-Méthodologies : Machine Learning, Deep Learning, Statistiques, Big Data Analytics, Web Scraping
-Modélisation : Régression, Classification, Clustering, Séries temporelles
-Traitement de Données : Feature Engineering, Data Cleaning, Data Wrangling
+  - Méthodologies : Machine Learning, Deep Learning, Statistiques, Big Data Analytics, Web Scraping
+  -  Modélisation : Régression, Classification, Clustering, Séries temporelles
+  - Traitement de Données : Feature Engineering, Data Cleaning, Data Wrangling
 
 💻 Langages de Programmation
 Python : Pandas, NumPy, Scikit-Learn, SciPy, Keras, TensorFlow, Matplotlib, Seaborn
