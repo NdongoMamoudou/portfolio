@@ -129,7 +129,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="Images/asteroid_trajectory.PNG" alt="Asteroid Trajectory Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+      <img src="Images/asteroid.PNG" alt="Asteroid Trajectory Screenshot" style="width: 100%; max-width: 300px; height: auto;">
     </td>
     <td style="width: 50%;">
       <strong>
