@@ -126,6 +126,37 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/asteroid_trajectory.PNG" alt="Asteroid Trajectory Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/TonNom/asteroid-collision-prediction">
+          Prédiction des Collisions d'Astéroïdes avec Hadoop, Kafka, Spark et Machine Learning
+        </a>
+      </strong>
+      <p>
+        **Ce projet Big Data et Machine Learning** a pour objectif de traiter et analyser des données d'astéroïdes en temps réel en utilisant un environnement distribué basé sur **Kafka**, **Hadoop (HDFS)** et **Spark**. L’objectif principal est de prédire les trajectoires des astéroïdes et d'évaluer leur probabilité de collision avec la Terre.
+      </p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Déploiement d’un environnement distribué avec **Kafka** pour le streaming de données en temps réel, **Hadoop (HDFS)** pour le stockage distribué et **Spark** pour le traitement des données massives</li>
+        <li>Génération de données simulées sur les astéroïdes et publication continue sur un topic **Kafka**</li>
+        <li>Consommation des données provenant de **Kafka** et stockage dans **HDFS** pour un traitement ultérieur</li>
+        <li>Nettoyage et transformation des données avec **Spark** pour les préparer aux analyses</li>
+        <li>Analyse des trajectoires des astéroïdes et modélisation prédictive avec **Machine Learning** et **Deep Learning**</li>
+        <li>Utilisation de **Spark Streaming** pour les analyses temporelles et le calcul des trajectoires en temps réel</li>
+        <li>Création de visualisations des trajectoires des astéroïdes et des probabilités de collision avec **Apache Superset** ou **Echarts**</li>
+      </ul>
+      <p><strong>Technologies utilisées :</strong> Kafka, Hadoop (HDFS), Spark, Machine Learning, Deep Learning, Apache Superset, Echarts.</p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
