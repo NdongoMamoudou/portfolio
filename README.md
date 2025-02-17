@@ -133,7 +133,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href="https://github.com/TonNom/asteroid-collision-prediction">
+        <a href="https://github.com/NdongoMamoudou/AsteroidCollisionPrediction">
           Prédiction des Collisions d'Astéroïdes avec Hadoop, Kafka, Spark et Machine Learning
         </a>
       </strong>
