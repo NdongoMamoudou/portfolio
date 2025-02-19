@@ -43,6 +43,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 
+
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
@@ -65,6 +66,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+
+
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
@@ -81,6 +84,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+
+
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
@@ -96,6 +101,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
+
+
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
@@ -114,6 +121,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
+
+
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
@@ -131,22 +140,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-      <img src="Images/asteroid.PNG" alt="Asteroid Trajectory Screenshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    </td>
-    <td style="width: 50%; padding: 10px;">
-      <strong>
-        <a href="https://github.com/NdongoMamoudou/AsteroidCollisionPrediction" style="text-decoration: none; font-size: 1.2em; color: #2c3e50;">Prédiction des Collisions d'Astéroïdes avec Hadoop, Kafka, Spark et Machine Learning</a>
-      </strong>
-      <p style="font-size: 1em; color: #7f8c8d; line-height: 1.6; margin-top: 10px;">
-        Ce projet Big Data et Machine Learning analyse des données d'astéroïdes en temps réel pour prédire leurs trajectoires et évaluer leur probabilité de collision avec la Terre.
-      </p>
-      <p><strong>Technologies utilisées :</strong> Kafka, Hadoop (HDFS), Spark, Machine Learning, Deep Learning, Apache Superset, Echarts.</p>
-    </td>
-  </tr>
-</table>
+
 
 
 
