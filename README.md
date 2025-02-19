@@ -15,12 +15,13 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 
 
-<table style="width: 100%; table-layout: fixed;">
+
+<table style="width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/gp_colis">
           GP Colis - Gestion des Colis entre le Sénégal et la France
@@ -36,14 +37,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-
-
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/spam.PNG" alt="Icône d'email" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/Deep_Learning_pour_la_Classification_Binaire">
           Classification : Emails (Spam) et Cancer
@@ -58,14 +57,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-
-
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/analyse-donnees_fraude-marketing">
           Analyse des Comportements d'Achat des Clients - Campagne Marketing
@@ -81,14 +78,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-
-
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/WebScrapingCollection">
           Web Scraping Collection
@@ -103,14 +98,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-
-
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/seismic.PNG" alt="Analyse Sismique Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/seismic.PNG" alt="Analyse Sismique Screenshot" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/seismic-data-analysis">
           Analyse et Traitement des Données Sismiques avec Hadoop, Hive et Spark
@@ -135,15 +128,12 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
   </tr>
 </table>
 
-
-
-
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="Images/asteroid.PNG" alt="Asteroid Trajectory Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <img src="Images/asteroid.PNG" alt="Asteroid Trajectory Screenshot" style="width: 300px; height: auto; max-width: 100%;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%; padding: 10px;">
       <strong>
         <a href="https://github.com/NdongoMamoudou/AsteroidCollisionPrediction">
           Prédiction des Collisions d'Astéroïdes avec Hadoop, Kafka, Spark et Machine Learning
@@ -166,6 +156,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
+
 
 
 
