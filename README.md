@@ -17,7 +17,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 40px;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/G_aosis1.png" alt="GP Colis Screenshot" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -38,7 +38,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 40px;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/spam.PNG" alt="Icône d'email" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -58,7 +58,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 40px;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/finance.PNG" alt="Icône Marketing" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -79,7 +79,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 40px;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/web_scraping.PNG" alt="web scraping" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -99,7 +99,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 40px;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/seismic.PNG" alt="Analyse Sismique Screenshot" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -129,7 +129,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 <table style="width: 100%; table-layout: fixed;">
-  <tr>
+  <tr style="vertical-align: top;">
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="Images/asteroid.PNG" alt="Asteroid Trajectory Screenshot" style="width: 400px; height: auto; max-width: 100%;">
     </td>
@@ -156,6 +156,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
   </tr>
 </table>
+
 
 
 
