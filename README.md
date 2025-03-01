@@ -20,8 +20,8 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
     </td>
     <td style="width: 50%;">
       <strong>
-        <a href="https://github.com/ton-repo/planet-discovery-pipeline">
-          Système de Découverte et d'Analyse de Planètes avec Flask, Kafka, Spark, HDFS, Hive et Machine Learning
+        <a href="https://github.com/NdongoMamoudou/planet-discovery-pipeline">
+          Système de Découverte et d'Analyse de Planètes avec Flask, Kafka, Spark, HDFS, Hive, Machine Learning et Docker
         </a>
       </strong>
       <p>
@@ -30,6 +30,7 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
       <p><strong>Fonctionnalités principales :</strong></p>
       <ul>
         <li>Développement d’une **API Flask** permettant de recevoir et valider les données de découvertes de planètes via des requêtes HTTP POST</li>
+        <li>Conteneurisation de tous les services (Flask, Kafka, Spark, HDFS, Hive) avec **Docker** et **Docker Compose** pour une orchestration simplifiée</li>
         <li>Intégration avec **Kafka** pour la publication des données reçues dans un **topic** dédié au streaming en temps réel</li>
         <li>Configuration d’un pipeline de traitement en temps réel avec **Apache Spark** pour consommer les messages depuis Kafka, effectuer des analyses statistiques et des transformations</li>
         <li>Calcul de métriques agrégées comme la répartition des types de planètes, la moyenne des masses et la corrélation entre la présence d’eau et d’autres caractéristiques</li>
@@ -38,10 +39,11 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
         <li>Ajout d’une fonctionnalité dans l’**API Flask** permettant de récupérer les données analytiques stockées dans HDFS et Hive et de les exposer sous forme de JSON</li>
         <li>Implémentation d’une route supplémentaire pour uploader directement des fichiers vers **HDFS** depuis l’API Flask</li>
       </ul>
-      <p><strong>Technologies utilisées :</strong> Flask, Kafka, Apache Spark, HDFS, Hive, Machine Learning, Hadoop, Python.</p>
+      <p><strong>Technologies utilisées :</strong> Flask, Kafka, Apache Spark, HDFS, Hive, Machine Learning, Hadoop, Docker, Docker Compose, Python.</p>
     </td>
   </tr>
 </table>
+
 
 
 
