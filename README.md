@@ -13,6 +13,40 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 
 
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/planet_discovery.PNG" alt="Planet Discovery System Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/ton-repo/planet-discovery-pipeline">
+          Système de Découverte et d'Analyse de Planètes avec Flask, Kafka, Spark, HDFS, Hive et Machine Learning
+        </a>
+      </strong>
+      <p>
+        **Ce projet Big Data et Intelligence Artificielle** consiste à construire un pipeline complet pour la gestion, l’analyse et la prédiction des caractéristiques des planètes découvertes dans l’espace. Il combine des technologies de streaming, de stockage distribué, de traitement de données massives et de machine learning pour créer un système robuste d’analyse et de prédiction.
+      </p>
+      <p><strong>Fonctionnalités principales :</strong></p>
+      <ul>
+        <li>Développement d’une **API Flask** permettant de recevoir et valider les données de découvertes de planètes via des requêtes HTTP POST</li>
+        <li>Intégration avec **Kafka** pour la publication des données reçues dans un **topic** dédié au streaming en temps réel</li>
+        <li>Configuration d’un pipeline de traitement en temps réel avec **Apache Spark** pour consommer les messages depuis Kafka, effectuer des analyses statistiques et des transformations</li>
+        <li>Calcul de métriques agrégées comme la répartition des types de planètes, la moyenne des masses et la corrélation entre la présence d’eau et d’autres caractéristiques</li>
+        <li>Développement d’un modèle de **Machine Learning** pour prédire la probabilité d’habitabilité des planètes en fonction de leurs caractéristiques physiques et atmosphériques</li>
+        <li>Stockage structuré des données et des résultats d’analyses dans **HDFS** pour la persistance et dans **Hive** pour la requêtabilité via SQL</li>
+        <li>Ajout d’une fonctionnalité dans l’**API Flask** permettant de récupérer les données analytiques stockées dans HDFS et Hive et de les exposer sous forme de JSON</li>
+        <li>Implémentation d’une route supplémentaire pour uploader directement des fichiers vers **HDFS** depuis l’API Flask</li>
+      </ul>
+      <p><strong>Technologies utilisées :</strong> Flask, Kafka, Apache Spark, HDFS, Hive, Machine Learning, Hadoop, Python.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 
