@@ -207,9 +207,53 @@ Ce portfolio regroupe l'ensemble des projets que j'ai réalisés en science des 
 </table>
 
 
+🍷 Projet 1 — Classification de la Qualité du Vin :
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/wine_quality.PNG" alt="Wine Quality Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/ml-projects-hub">
+          Prédiction de la Qualité du Vin avec Machine Learning
+        </a>
+      </strong>
+      <p>
+        Ce projet vise à prédire la qualité du vin (basse, moyenne, haute) à partir de caractéristiques chimiques. Plusieurs modèles de classification sont comparés pour identifier le plus performant.
+      </p>
+      <p><strong>Modèles testés :</strong> Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Gradient Boosting, Extra Trees, Naive Bayes</p>
+      <p><strong>Résultat :</strong> Le modèle Extra Trees a obtenu la meilleure performance avec une précision d’environ 73%</p>
+      <p><strong>Technologies :</strong> Python, Scikit-Learn, Pandas, Seaborn, Matplotlib</p>
+    </td>
+  </tr>
+</table>
 
 
 
+
+🔶 Projet 2 — Clustering avec KMeans :
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="Images/kmeans_clustering.PNG" alt="KMeans Clustering Screenshot" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <strong>
+        <a href="https://github.com/NdongoMamoudou/ml-projects-hub">
+          Segmentation de Données avec KMeans Clustering
+        </a>
+      </strong>
+      <p>
+        Ce projet applique l’algorithme KMeans pour regrouper automatiquement des données non étiquetées en clusters selon leurs similarités.
+      </p>
+      <p><strong>Étapes principales :</strong> Nettoyage des données, réduction de dimension (PCA), évaluation du nombre optimal de clusters (méthode du coude), visualisation</p>
+      <p><strong>Technologies :</strong> Python, Scikit-Learn, Matplotlib, Seaborn, PCA</p>
+    </td>
+  </tr>
+</table>
 
 
 
