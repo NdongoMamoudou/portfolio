@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio - NDONGO Mamoudou</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background: #f9fafb;
+            color: #1f2937;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: #111827;
+            color: #fff;
+            border-radius: 12px;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: #60a5fa;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        .cv-button {
+            display: inline-block;
+            margin-top: 20px;
+            background-color: #3b82f6;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.3s;
+        }
+
+        .cv-button:hover {
+            background-color: #2563eb;
+        }
+
+        section {
+            margin-top: 40px;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            border-left: 6px solid #3b82f6;
+            padding-left: 10px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .card h3 {
+            font-size: 1.25rem;
+            margin-bottom: 10px;
+            color: #111827;
+        }
+
+        .card p {
+            font-size: 0.95rem;
+            color: #4b5563;
+            margin-bottom: 10px;
+        }
+
+        .skills,
+        .certificates {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .badge {
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>NDONGO Mamoudou</h1>
+        <p>Développeur, Big Data & Intelligence Artificielle</p>
+        <nav>
+            <a href="mailto:mamoudoundongo78@gmail.com">Email</a> |
+            <a href="https://www.linkedin.com/in/mamoudou-ndongo/" target="_blank">LinkedIn</a>
+        </nav>
+        <a href="CV/Ndongo_Mamoudou_CV.pdf" download class="cv-button">📄 Télécharger mon CV</a>
+    </header>
+
+    <section>
+        <h2>Projets</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="Images/planet_discovery.PNG" alt="Planet Discovery">
+                <h3>Découverte de Planètes</h3>
+                <p>Pipeline Big Data & IA complet avec Flask, Kafka, Spark, HDFS, Hive, Docker.</p>
+                <a href="https://github.com/NdongoMamoudou/planet-discovery-pipeline" target="_blank">Voir le projet
+                    →</a>
+            </div>
+            <div class="card">
+                <img src="Images/asteroid.PNG" alt="Asteroid">
+                <h3>Prédiction de Trajectoires d'Astéroïdes</h3>
+                <p>Utilisation de Spark, Kafka, Hadoop et ML pour estimer les risques de collision.</p>
+                <a href="https://github.com/NdongoMamoudou/AsteroidCollisionPrediction" target="_blank">Voir le projet
+                    →</a>
+            </div>
+            <div class="card">
+                <img src="Images/seismic.PNG" alt="Séismes">
+                <h3>Analyse Sismique</h3>
+                <p>Détection d’événements via Hive, Spark, Hadoop et visualisation.</p>
+                <a href="https://github.com/NdongoMamoudou/seismic-data-analysis" target="_blank">Voir le projet →</a>
+            </div>
+            <div class="card">
+                <img src="Images/web_scraping.PNG" alt="Web Scraping">
+                <h3>Web Scraping</h3>
+                <p>Collection automatisée de données en temps réel avec Scrapy, Selenium, BS4.</p>
+                <a href="https://github.com/NdongoMamoudou/WebScrapingCollection" target="_blank">Voir le projet →</a>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Compétences</h2>
+        <div class="skills">
+            <div class="badge">Python</div>
+            <div class="badge">Pandas</div>
+            <div class="badge">Scikit-Learn</div>
+            <div class="badge">Spark</div>
+            <div class="badge">Hadoop</div>
+            <div class="badge">Kafka</div>
+            <div class="badge">Machine Learning</div>
+            <div class="badge">Deep Learning</div>
+            <div class="badge">React.js</div>
+            <div class="badge">Docker</div>
+            <div class="badge">SQL</div>
+            <div class="badge">Flask</div>
+            <div class="badge">FastAPI</div>
+            <div class="badge">Power BI</div>
+            <div class="badge">Streamlit</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Certificats</h2>
+        <ul>
+            <li><a href="./Certificats/CertificatDaccomplissement_Python_La_visualisation_des_donnees.pdf">Visualisation
+                    de données avec Python</a></li>
+            <li><a href="./Certificats/CertificatDaccomplissement_Python_Niveau_avance.pdf">Python - Niveau avancé</a>
+            </li>
+            <li><a href="./Certificats/CertificatDaccomplissement_pandas%20_pour%20_la_%20data_science.pdf">Pandas pour
+                    la Data Science</a></li>
+            <li><a href="./Certificats/ScrumFundamentalsCertified-MamoudouNdongo-1050242.pdf">Scrum Fundamentals
+                    Certified</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2025 NDONGO Mamoudou — Tous droits réservés.
+    </footer>
+</body>
+
+</html>
